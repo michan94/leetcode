@@ -23,4 +23,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Find Numbers with Even Number of Digits](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findNumbersWithEvenNumberOfDigits)
 
+* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+
+* [Unique Number of Occurrences](https://github.com/michan94/leetcode/blob/master/Solutions/Python/uniqueNumberOfOccurrences.md)
+
+
 
