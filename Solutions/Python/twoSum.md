@@ -8,11 +8,10 @@ You may assume that each input would have exactly one solution, and you may not 
 ```python
 class Solution(object):
     def twoSum(self, nums, target):
-        result = [];
-        index = 0;
         for num in nums:
             need = target - num;
-            tmp = nums[nums.index(num):];
+            tmpIndex = nums.index(num) + 1;
+            tmp = nums[tmpIndex:];
             if need in tmp:
-                return [nums.index(num), tmp.index(need) + nums.index(num)]
+                return [nums.index(num), tmpIndex + tmp.index(need)]
 ```

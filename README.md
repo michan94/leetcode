@@ -31,13 +31,13 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Palindrom Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/palindromeNumber.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Merge Two Sorted Lists](https://github.com/michan94/leetcode/blob/master/Solutions/Python/mergeTwoSortedLinkedLists.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Jewels and Stones](https://github.com/michan94/leetcode/blob/master/Solutions/Python/jewelsAndStones.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Squares of a Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/squaresOfSortedArray.md)
 
 * [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
 
