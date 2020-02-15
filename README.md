@@ -39,7 +39,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Squares of a Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/squaresOfSortedArray.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Merge Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/mergeSortedArray.md)
 
 * [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
 
