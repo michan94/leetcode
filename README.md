@@ -45,3 +45,5 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Count Negative Numbers in a Sorted Matrix](https://github.com/michan94/leetcode/blob/master/Solutions/Python/countNegNumsInSortedMatrix.md)
 
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
