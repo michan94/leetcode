@@ -41,6 +41,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Merge Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/mergeSortedArray.md)
 
-* [To Lower Case](https://github.com/michan94/leetcode/blob/master/Solutions/Python/toLowerCase.md)
+* [Power of Two](https://github.com/michan94/leetcode/blob/master/Solutions/Python/powerOfTwo.md)
 
+* [Count Negative Numbers in a Sorted Matrix](https://github.com/michan94/leetcode/blob/master/Solutions/Python/countNegNumsInSortedMatrix.md)
 
