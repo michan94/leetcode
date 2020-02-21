@@ -47,3 +47,15 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
+* [Reverse String](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseString.md)
+
+* [Binary Tree Postorder Traversal](https://github.com/michan94/leetcode/blob/master/Solutions/Python/postorderTraversal.md)
+
+* [Binary Tree Preorder Traversal](https://github.com/michan94/leetcode/blob/master/Solutions/Python/preorderTraversal.md)
+
+* [Binary Tree Inorder Traversal](https://github.com/michan94/leetcode/blob/master/Solutions/Python/inorderTraversal.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
