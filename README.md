@@ -55,7 +55,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Binary Tree Inorder Traversal](https://github.com/michan94/leetcode/blob/master/Solutions/Python/inorderTraversal.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Swap Nodes in Pairs](https://github.com/michan94/leetcode/blob/master/Solutions/Python/swapNodesInPairs.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Fibonacci Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/fibonacciNumber.md)
 
