@@ -59,3 +59,21 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Fibonacci Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/fibonacciNumber.md)
 
+* [Climbing Stairs](https://github.com/michan94/leetcode/blob/master/Solutions/Python/climbingStairs.md)
+
+* [Maximum Depth of Binary Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/maximumDepthOfBinaryTree.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
