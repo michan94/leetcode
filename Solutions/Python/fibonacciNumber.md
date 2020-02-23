@@ -18,15 +18,20 @@ class Solution(object):
         :rtype: int
         """
         cache = {};
+        # Check to see if value already stored
         if N in cache:
             return cache[N];
+        # Base case
         if N < 2:
             return N;
+        # Recursive calls to solve input if not in dict
         else:
             result = self.fib(N-1) + self.fib(N-2);
+        # Store new result;
         cache[N] = result;
         return result;
 ```
+<<<<<<< HEAD
 
 **Second Solution**
 ```python
@@ -44,3 +49,5 @@ class Solution(object):
                 cache[i] = self.fib(N-1) + self.fib(N-2);
         return cache[N];
 ```
+=======
+>>>>>>> 55bc1c59d2ff2d1632f96fd867bd694756be6e43
