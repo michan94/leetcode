@@ -67,7 +67,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Reverse Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseLinkedList.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Find Pivot Index](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findPivotIndex.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
