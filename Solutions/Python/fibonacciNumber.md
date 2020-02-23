@@ -27,3 +27,20 @@ class Solution(object):
         cache[N] = result;
         return result;
 ```
+
+**Second Solution**
+```python
+class Solution(object):
+    def fib(self, N):
+        """
+        :type N: int
+        :rtype: int
+        """
+        cache = {0 : 0, 1 : 1}
+        if N in cache:
+            return cache[N];
+        else:
+            for i in range(2, N + 1):
+                cache[i] = self.fib(N-1) + self.fib(N-2);
+        return cache[N];
+```

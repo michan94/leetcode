@@ -63,9 +63,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Maximum Depth of Binary Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/maximumDepthOfBinaryTree.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Search in a Binary Search Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchInBST.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Reverse Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseLinkedList.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
