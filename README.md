@@ -69,11 +69,11 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Find Pivot Index](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findPivotIndex.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Largest Number At Least Twice of Others](https://github.com/michan94/leetcode/blob/master/Solutions/Python/largestNumberAtLeastTwiceOfOthers.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Plus One](https://github.com/michan94/leetcode/blob/master/Solutions/Python/plusOne.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Implement strStr()](https://github.com/michan94/leetcode/blob/master/Solutions/Python/implementStrStr.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
