@@ -79,7 +79,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Two Sum II - Input Array is Sorted](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSumIIInputArraySorted.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Remove Element (In Place)](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeElementInPlace.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
