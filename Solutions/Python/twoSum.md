@@ -15,3 +15,22 @@ class Solution(object):
             if need in tmp:
                 return [nums.index(num), tmpIndex + tmp.index(need)]
 ```
+
+**Second Solution:**
+```python
+class Solution(object):
+    def twoSum(self, numbers, target):
+        """
+        :type numbers: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        result = [];
+        for i in range(len(numbers)-1):
+            missing = target - numbers[i];
+            for j in range(i+1, len(numbers)):
+                if numbers[j] == missing:
+                    result.append(i + 1);
+                    result.append(j + 1);
+        return result;
+```

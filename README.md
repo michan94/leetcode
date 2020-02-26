@@ -75,5 +75,23 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Implement strStr()](https://github.com/michan94/leetcode/blob/master/Solutions/Python/implementStrStr.md)
 
+* [Array Partition I](https://github.com/michan94/leetcode/blob/master/Solutions/Python/arrayPartitionI.md)
+
+* [Two Sum II - Input Array is Sorted](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSumIIInputArraySorted.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
+* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
