@@ -81,11 +81,11 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Remove Element (In Place)](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeElementInPlace.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Max Consecutive Ones](https://github.com/michan94/leetcode/blob/master/Solutions/Python/maxConsecutiveOnes.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Reverse Words in a String](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseWordsInAString.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Reverse Words in a String III](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseWordsInAStringIII.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
