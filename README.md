@@ -87,7 +87,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Reverse Words in a String III](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseWordsInAStringIII.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Remove Duplicates from Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeDuplicatesFromSortedArray.md)
 
 * [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
 
