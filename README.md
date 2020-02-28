@@ -89,9 +89,33 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Remove Duplicates from Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeDuplicatesFromSortedArray.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Move Zeroes](https://github.com/michan94/leetcode/blob/master/Solutions/Python/moveZeroes.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Binary Search](https://github.com/michan94/leetcode/blob/master/Solutions/Python/binarySearch.md)
 
-* [Min Stack](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minStack.md)
+* [Guess Number Higher or Lower](https://github.com/michan94/leetcode/blob/master/Solutions/Python/guessNumberHigherOrLower.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
