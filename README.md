@@ -95,9 +95,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Guess Number Higher or Lower](https://github.com/michan94/leetcode/blob/master/Solutions/Python/guessNumberHigherOrLower.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Sqrt(x)](https://github.com/michan94/leetcode/blob/master/Solutions/Python/sqrt(x)BinarySearchImplementation.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [First Bad Version](https://github.com/michan94/leetcode/blob/master/Solutions/Python/firstBadVersion.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
