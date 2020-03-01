@@ -99,9 +99,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [First Bad Version](https://github.com/michan94/leetcode/blob/master/Solutions/Python/firstBadVersion.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Find Peak Element](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findPeakElement.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Search for a Range](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchForARange.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
