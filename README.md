@@ -103,7 +103,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Search for a Range](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchForARange.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Valid Perfect Square](https://github.com/michan94/leetcode/blob/master/Solutions/Python/validPerfectSquare.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
