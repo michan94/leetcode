@@ -105,9 +105,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Valid Perfect Square](https://github.com/michan94/leetcode/blob/master/Solutions/Python/validPerfectSquare.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Intersection of Two Arrays](https://github.com/michan94/leetcode/blob/master/Solutions/Python/intersectionOfTwoArrays.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Find the Duplicate Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findTheDuplicateNumber.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
