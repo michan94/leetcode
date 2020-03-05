@@ -109,7 +109,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Find the Duplicate Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findTheDuplicateNumber.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Sort an Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/sortAnArray.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
