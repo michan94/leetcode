@@ -115,9 +115,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Search a 2D Matrix II](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchA2DMatrixII.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Linked List Cycle](https://github.com/michan94/leetcode/blob/master/Solutions/Python/linkedListCycle.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Linked List Cycle II](https://github.com/michan94/leetcode/blob/master/Solutions/Python/linkedListCycleII.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 

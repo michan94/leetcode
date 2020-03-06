@@ -6,9 +6,19 @@ To represent a cycle in the given linked list, we use an integer pos which repre
 
 ### Example 1:
 
+Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
+
+To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+
+Note: Do not modify the linked list.
+
+ 
+
+### Example 1:
+
 Input: head = [3,2,0,-4], pos = 1
 
-Output: true
+Output: tail connects to node index 1
 
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
@@ -17,7 +27,7 @@ Explanation: There is a cycle in the linked list, where tail connects to the sec
 
 Input: head = [1,2], pos = 0
 
-Output: true
+Output: tail connects to node index 0
 
 Explanation: There is a cycle in the linked list, where tail connects to the first node.
 
@@ -26,15 +36,13 @@ Explanation: There is a cycle in the linked list, where tail connects to the fir
 
 Input: head = [1], pos = -1
 
-Output: false
+Output: no cycle
 
 Explanation: There is no cycle in the linked list.
 
 
 **First Solution:**
 ```python
-# Tortoise and the Hare Solution
-
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
@@ -42,42 +50,23 @@ Explanation: There is no cycle in the linked list.
 #         self.next = None
 
 class Solution(object):
-    def hasCycle(self, head):
+    def detectCycle(self, head):
         """
         :type head: ListNode
-        :rtype: bool
-        """
-        try:
-            slow = head;
-            fast = head.next; 
-            while slow != fast:
-                slow = slow.next;
-                fast = fast.next.next;
-            return True;
-        except:
-            return False;
-```
-
-**Second Solution:**
-```python
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
-class Solution(object):
-    def hasCycle(self, head):
-        """
-        :type head: ListNode
-        :rtype: bool
+        :rtype: ListNode
         """
         slow = head;
         fast = head;
         while fast is not None and fast.next is not None:
+            temp = slow;
             slow = slow.next;
             fast = fast.next.next;
-            if fast == slow:
-                return True;
-        return False;
+            if slow == fast:
+                while head is not None:
+                    if head == slow:
+                        return head;
+                    head = head.next;
+                    slow = slow.next
+        return None;
+        
 ```
