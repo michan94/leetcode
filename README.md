@@ -111,6 +111,26 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Sort an Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/sortAnArray.md)
 
+* [Validate Binary Search Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/validateBST.md)
+
+* [Search a 2D Matrix II](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchA2DMatrixII.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
+* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
