@@ -119,23 +119,36 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Linked List Cycle II](https://github.com/michan94/leetcode/blob/master/Solutions/Python/linkedListCycleII.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Intersection of Two Linked Lists](https://github.com/michan94/leetcode/blob/master/Solutions/Python/intersectionOfTwoLinkedLists.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Remove Linked List Elements](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeLinkedListElements.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Minimum Depth of Binary Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/minimumDepthOfBinaryTree.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Odd Even Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/oddEvenLinkedList.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Insert into a Binary Search Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/insertIntoABinarySearchTree.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [Delete Node in a BST](https://github.com/michan94/leetcode/blob/master/Solutions/Python/deleteNodeInABST.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
-* [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Python/twoSum.md)
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
