@@ -131,17 +131,17 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Delete Node in a BST](https://github.com/michan94/leetcode/blob/master/Solutions/Python/deleteNodeInABST.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Search in a Binary Search Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/searchInABinarySearchTree.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Add Digits](https://github.com/michan94/leetcode/blob/master/Solutions/Python/addDigits.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Happy Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/happyNumber.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Contains Duplicate](https://github.com/michan94/leetcode/blob/master/Solutions/Python/containsDuplicate.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Reverse String](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseStringInPlace.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Reverse Integer](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseInteger.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
