@@ -143,7 +143,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Reverse Integer](https://github.com/michan94/leetcode/blob/master/Solutions/Python/reverseInteger.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Symmetric Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/symmetricTree.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
