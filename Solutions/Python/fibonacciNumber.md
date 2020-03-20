@@ -23,7 +23,7 @@ class Solution(object):
             return cache[N];
         # Base case
         if N < 2:
-            return N;
+            result = N;
         # Recursive calls to solve input if not in dict
         else:
             result = self.fib(N-1) + self.fib(N-2);
@@ -31,9 +31,26 @@ class Solution(object):
         cache[N] = result;
         return result;
 ```
-<<<<<<< HEAD
 
-**Second Solution**
+**Second Solution:**
+```python
+class Solution(object):
+    def fib(self, N):
+        """
+        :type N: int
+        :rtype: int
+        """
+        cache = {}
+        if N in cache:
+            return cache[N]
+        if N < 2:
+            return N
+        else:
+            cache[N] = self.fib(N - 1) + self.fib(N - 2)
+        return cache[N]
+```
+
+**Third Solution:**
 ```python
 class Solution(object):
     def fib(self, N):
@@ -42,10 +59,40 @@ class Solution(object):
         :rtype: int
         """
         cache = {0 : 0, 1 : 1}
-        if N in cache:
-            return cache[N];
+        if N < 2:
+            return N
+        for i in range(2, N + 1):
+            cache[i] = cache[i - 1] + cache[i - 2]
+        return cache[N]
+```
+
+**Fourth Solution**
+```python
+class Solution(object):
+    def fib(self, N):
+        """
+        :type N: int
+        :rtype: int
+        """
+        cache = {0 : 0, 1 : 1}
+        if N < 2:
+            return N;
         else:
             for i in range(2, N + 1):
                 cache[i] = self.fib(N-1) + self.fib(N-2);
         return cache[N];
+```
+
+**Fifth Solution**
+```python
+class Solution(object):
+    def fib(self, N):
+        """
+        :type N: int
+        :rtype: int
+        """
+        if N < 2:
+            return N
+        else:
+            return self.fib(N - 1) + self.fib(N - 2)
 ```
