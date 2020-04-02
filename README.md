@@ -145,9 +145,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Symmetric Tree](https://github.com/michan94/leetcode/blob/master/Solutions/Python/symmetricTree.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Missing Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/missingNumber.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Is List Palindrome (CodeSignal)](https://github.com/michan94/leetcode/blob/master/Solutions/Python/isLinkedListPalindrome.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 

@@ -59,8 +59,8 @@ class Solution(object):
         :rtype: int
         """
         cache = {0 : 0, 1 : 1}
-        if N < 2:
-            return N
+        if N in cache:
+            return cache[N]
         for i in range(2, N + 1):
             cache[i] = cache[i - 1] + cache[i - 2]
         return cache[N]
@@ -75,11 +75,10 @@ class Solution(object):
         :rtype: int
         """
         cache = {0 : 0, 1 : 1}
-        if N < 2:
-            return N;
+        if N in cache:
+            return cache[N];
         else:
-            for i in range(2, N + 1):
-                cache[i] = self.fib(N-1) + self.fib(N-2);
+            cache[i] = self.fib(N-1) + self.fib(N-2);
         return cache[N];
 ```
 
