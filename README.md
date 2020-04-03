@@ -147,7 +147,29 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Missing Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/missingNumber.md)
 
-* [Is List Palindrome (CodeSignal)](https://github.com/michan94/leetcode/blob/master/Solutions/Python/isLinkedListPalindrome.md)
+* [Palindrome Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/isLinkedListPalindrome.md)
+
+* [Sum of Two Arrays](https://github.com/michan94/leetcode/blob/master/Solutions/Python/sumOfTwoArrays.md)
+
+* [Amend the Sentence](https://github.com/michan94/leetcode/blob/master/Solutions/Python/amendTheSentence.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 

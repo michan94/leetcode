@@ -15,25 +15,30 @@ isListPalindrome(l) = false
 
 **First Solution:**
 ```python
-# Singly-linked lists are already defined with this interface:
+# Definition for singly-linked list.
 # class ListNode(object):
-#   def __init__(self, x):
-#     self.value = x
-#     self.next = None
-#
-def isListPalindrome(l):
-    curr = l
-    temp = []
-    while curr is not None:
-        temp.append(curr.value)
-        curr = curr.next
-    left = 0
-    right = len(temp) - 1
-    while left <= right:
-        if temp[left] != temp[right]:
-            return False
-        else:
-            left += 1
-            right -= 1
-    return True
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def isPalindrome(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        curr = head
+        temp = []
+        while curr is not None:
+            temp.append(curr.val)
+            curr = curr.next
+        left = 0
+        right = len(temp) - 1
+        while left <= right:
+            if temp[left] != temp[right]:
+                return False
+            else:
+                left += 1
+                right -= 1
+        return True
 ```
