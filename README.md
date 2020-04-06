@@ -153,7 +153,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Amend the Sentence](https://github.com/michan94/leetcode/blob/master/Solutions/Python/amendTheSentence.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Remove Nth Node From End of List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeNthNodeFromEndOfList.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
