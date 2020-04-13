@@ -155,9 +155,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Remove Nth Node From End of List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/removeNthNodeFromEndOfList.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Counting Elements](https://github.com/michan94/leetcode/blob/master/Solutions/Python/countingElements.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Middle of the Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/middleOfLinkedList.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
