@@ -159,9 +159,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Middle of the Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Python/middleOfLinkedList.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Last Stone Weight](https://github.com/michan94/leetcode/blob/master/Solutions/Python/lastStoneWeight.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Best Time to Buy and Sell Stock II](https://github.com/michan94/codewars/blob/master/Solutions/Python/bestTimeToBuyAndSellStockII.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
