@@ -163,7 +163,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Best Time to Buy and Sell Stock II](https://github.com/michan94/codewars/blob/master/Solutions/Python/bestTimeToBuyAndSellStockII.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [How Many Numbers are Smaller than the Current Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/numbersSmallerThanCurrentNumber.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
