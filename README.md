@@ -12,6 +12,10 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Java/createPhoneNumber.md)
 
+* [Remove Linked List Elements](https://github.com/michan94/leetcode/blob/master/Solutions/Java/removeLinkedListElements.md)
+
+* [Reverse Linked List](https://github.com/michan94/leetcode/blob/master/Solutions/Java/reverseLinkedList.md)
+
 
 ### Python
 
@@ -165,7 +169,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [How Many Numbers are Smaller than the Current Number](https://github.com/michan94/leetcode/blob/master/Solutions/Python/numbersSmallerThanCurrentNumber.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Create Target Array in the Given Order](https://github.com/michan94/leetcode/blob/master/Solutions/Python/createTargetArrayinGivenOrder.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
