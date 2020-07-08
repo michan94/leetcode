@@ -171,9 +171,9 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Create Target Array in the Given Order](https://github.com/michan94/leetcode/blob/master/Solutions/Python/createTargetArrayinGivenOrder.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Find Numbers with Even Number Digits](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findNumbersWithEvenNumberDigits.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Squares of a Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/squaresOfASortedArray.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 

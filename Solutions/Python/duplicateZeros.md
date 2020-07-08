@@ -43,3 +43,21 @@ class Solution(object):
         for i in range(len(arr)):
             arr[i] = result[i];
 ```
+
+**Second Solution:**
+```python
+class Solution(object):
+    def duplicateZeros(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: None Do not return anything, modify arr in-place instead.
+        """
+        numZero = arr.count(0)
+        for i in range(len(arr) - 1, -1, -1):
+            if i + numZero < len(arr):
+                arr[i + numZero] = arr[i]
+            if arr[i] == 0: 
+                numZero -= 1
+                if i + numZero < len(arr):
+                    arr[i + numZero] = 0
+```

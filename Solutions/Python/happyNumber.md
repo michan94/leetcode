@@ -61,3 +61,25 @@ class Solution(object):
                     seen.add(result)
         return True;
 ```
+
+**Third Solution:**
+```python
+class Solution(object):
+    def isHappy(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        seen = set()
+        while n != 1:
+            temp = 0
+            num = str(n)
+            for digit in num:
+                temp += int(digit)**2
+            if temp in seen:
+                return False
+            else:
+                seen.add(temp)
+                n = temp
+        return True
+```
