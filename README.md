@@ -175,6 +175,6 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Squares of a Sorted Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/squaresOfASortedArray.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Check if N and its Double Exist](https://github.com/michan94/leetcode/blob/master/Solutions/Python/checkIfNAndItsDoubleExist.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
