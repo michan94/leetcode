@@ -185,7 +185,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Find All Duplicates in an Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findAllDuplicatesInAnArray.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Running Sum of 1D Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/runningSumOf1DArray.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
