@@ -183,7 +183,7 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Power of Three](https://github.com/michan94/leetcode/blob/master/Solutions/Python/powerOfThree.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Find All Duplicates in an Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/findAllDuplicatesInAnArray.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
