@@ -177,4 +177,24 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Check if N and its Double Exist](https://github.com/michan94/leetcode/blob/master/Solutions/Python/checkIfNAndItsDoubleExist.md)
 
+* [Detect Capital](https://github.com/michan94/leetcode/blob/master/Solutions/Python/detectCapital.md)
+
+* [Power of Four](https://github.com/michan94/leetcode/blob/master/Solutions/Python/powerOfFour.md)
+
+* [Power of Three](https://github.com/michan94/leetcode/blob/master/Solutions/Python/powerOfThree.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
+* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
