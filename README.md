@@ -187,13 +187,13 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 * [Running Sum of 1D Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/runningSumOf1DArray.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Kids With Greatest Number of Candies](https://github.com/michan94/leetcode/blob/master/Solutions/Python/kidsWithGreatestNumberCandies.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Shuffle the Array](https://github.com/michan94/leetcode/blob/master/Solutions/Python/shuffleTheArray.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Number of Good Pairs](https://github.com/michan94/leetcode/blob/master/Solutions/Python/numberOfGoodPairs.md)
 
-* [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
+* [Range Sum of BST](https://github.com/michan94/leetcode/blob/master/Solutions/Python/rangeSumOfBST.md)
 
 * [](https://github.com/michan94/leetcode/blob/master/Solutions/Python/.md)
 
