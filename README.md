@@ -8,8 +8,6 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 ### Java
 
-#### Easy
-
 * [Two Sum](https://github.com/michan94/leetcode/blob/master/Solutions/Java/createPhoneNumber.md)
 
 * [Remove Linked List Elements](https://github.com/michan94/leetcode/blob/master/Solutions/Java/removeLinkedListElements.md)
@@ -18,8 +16,6 @@ Leetcode profile: https://leetcode.com/garfield041/
 
 
 ### Python
-
-#### Easy
 
 * [Number of Steps to Reduce a Number to Zero](https://github.com/michan94/leetcode/blob/master/Solutions/Python/numberOfStepsToZero.md)
 
