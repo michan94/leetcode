@@ -34,3 +34,28 @@ class Solution(object):
                     result.append(j + 1);
         return result;
 ```
+
+
+**Third Solution:**
+```python
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        if len(nums) < 2:
+            return [-1,-1]
+        left = 0
+        right = 1
+        while left < len(nums) - 1:
+            while right < len(nums):
+                if nums[left] + nums[right] == target:
+                    return [left, right]
+                else:
+                    right += 1
+            left += 1
+            right = left + 1
+        return [-1, -1]
+```
