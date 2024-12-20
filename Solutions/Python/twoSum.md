@@ -30,8 +30,8 @@ class Solution(object):
             missing = target - numbers[i];
             for j in range(i+1, len(numbers)):
                 if numbers[j] == missing:
-                    result.append(i + 1);
-                    result.append(j + 1);
+                    result.append(i);
+                    result.append(j);
         return result;
 ```
 
